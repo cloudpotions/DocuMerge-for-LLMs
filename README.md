@@ -1,10 +1,10 @@
-# 🌟 DocuMerge for LLMs 🌟 ~ By Jesse Ellis with CloudPotions.com 
+# 🌟 DocuMerge for LLMs 🌟 ~ By Jesse Ellis with CloudPotions.com - Director of Corporate Development - BPO Seats, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing, AI Consultancy by yours truly, or any Tech Stacks
 
-Director of Corporate Development - BPO Seats, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing, AI Consultancy by yours truly, or any Tech Stacks
+In summary, this Python script  consolidates a Github repository into one text file to train an LLM model, and also generates a comprehensive analysis of the codebase in a structured insights file. This allows training an LLM on the contents and high-level structure/characteristics of the repository.
 
 # 🌟 DocuMerge for LLMs 🌟
 
-🚀 **Easily prepare GitHub repositories for LLM analysis!**
+🚀 **Easily prepare GitHub repositories for AI LLM analysis!**
 
 Are you trying to train an LLM to analyze a GitHub repository or similar? Instead of manually extracting every single file and organizing it into a document, let **DocuMerge for LLMs** do the heavy lifting for you! This Python script consolidates all files in a repository into **two output files** that are perfect for LLM analysis.
 
