@@ -1,4 +1,4 @@
-# 🌟 DocuMerge for LLMs 🌟
+# 🌟 Repository DocuMerge for LLM Training 🌟
 
  ~ By Jesse Ellis - Director of Corporate Development - BPOSeats.com, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing, AI Consultancy by yours truly, or any Tech Stacks
 
