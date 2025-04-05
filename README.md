@@ -5,6 +5,7 @@
 This Python script transforms an entire GitHub repository into a single text file optimized for AI LLM training, while simultaneously generating a compact "insights" file containing structured analysis of the codebase. The dual-output approach ensures you can train your LLM model on complete code contents (when possible), but still leverage the smaller summary file when token limits are exceeded. This elegant solution allows LLMs to understand both the detailed implementation and high-level architecture of complex repositories.
 
 ------------
+
 AI CONSULTANCY - Programming the LLM for a Github Repo Analysis
 
 Code Repository Consolidation Framework for Advanced LLM Training
@@ -13,6 +14,7 @@ This Python implementation provides a sophisticated approach to transforming dis
 Comprehensive Repository Amalgamation: The script synthesizes an entire codebase (GitHub or alternative version control platforms) into a unified text corpus, creating a holistic representation for thorough model comprehension.
 Token-Optimized Intelligence Layer: Recognizing the computational constraints of context windows, the framework simultaneously generates a condensed "insights" artifact that captures the essential architectural patterns, dependency relationships, and structural characteristics of the source material.This methodology ensures maximum knowledge transfer while maintaining token efficiency. The secondary artifact serves as a fallback intelligence source when token limitations prevent full corpus ingestion, allowing models to maintain high-level understanding of the codebase's architecture even when detail resolution must be sacrificed.
 The implementation is particularly valuable for fine-tuning specialized models on proprietary codebases or creating domain-specific agents with deep understanding of technical ecosystems without the computational overhead of token-saturated contexts.
+
 --------------
 
 # 🌟 DocuMerge for LLMs 🌟
