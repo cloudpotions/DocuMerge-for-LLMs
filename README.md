@@ -5,7 +5,7 @@
 This Python script transforms an entire GitHub repository into a single text file optimized for AI LLM training, while simultaneously generating a compact "insights" file containing structured analysis of the codebase. The dual-output approach ensures you can train your LLM model on complete code contents (when possible), but still leverage the smaller summary file when token limits are exceeded. This elegant solution allows LLMs to understand both the detailed implementation and high-level architecture of complex repositories.
 
 ------------
-AI CONSULTANCY SECTION - Programming the LLM 
+AI CONSULTANCY - Programming the LLM for a Github Repo Analysis
 
 Code Repository Consolidation Framework for Advanced LLM Training
 This Python implementation provides a sophisticated approach to transforming disparate repository components into optimal LLM training artifacts. The solution operates on a dual-output paradigm:
