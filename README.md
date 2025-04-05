@@ -1,4 +1,6 @@
-# 🌟 DocuMerge for LLMs 🌟 ~ By Jesse Ellis with CloudPotions.com - Director of Corporate Development - BPO Seats, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing, AI Consultancy by yours truly, or any Tech Stacks
+# 🌟 DocuMerge for LLMs 🌟
+
+ ~ By Jesse Ellis with CloudPotions.com - Director of Corporate Development - BPO Seats, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing, AI Consultancy by yours truly, or any Tech Stacks
 
 In summary, this Python script  consolidates a Github repository into one text file to train an LLM model, and also generates a comprehensive analysis of the codebase in a structured insights file. This allows training an LLM on the contents and high-level structure/characteristics of the repository.
 
