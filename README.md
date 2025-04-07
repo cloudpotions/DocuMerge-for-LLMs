@@ -77,3 +77,4 @@ For best organization, I recommend placing your target repository in a dedicated
 12. **Error Handling**: Logs any issues encountered during processing.
 
 
+#repository-analyzer #code-merger #llm-context-builder #dependency-extractor #directory-structure-analyzer #code-statistics-generator #repository-insights #file-consolidation #codebase-documentation #function-extractor #class-analyzer #file-size-tracker #keyword-analyzer #language-distribution #code-summarizer #llm-optimization #repository-documentation #codebase-merger #code-documentation-generator #ai-assistant-helper
