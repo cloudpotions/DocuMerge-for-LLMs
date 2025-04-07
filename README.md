@@ -76,5 +76,4 @@ For best organization, I recommend placing your target repository in a dedicated
 11. **README Summary**: Summarizes the content of the `README.md` file (if available).
 12. **Error Handling**: Logs any issues encountered during processing.
 
-    buymeacoffee.com/cloudpotions
 
