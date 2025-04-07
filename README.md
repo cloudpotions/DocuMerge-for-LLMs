@@ -50,7 +50,7 @@ The **DocuMerge for LLMs** script performs the following tasks:
 
 2. **Download the Script**:
    - Save the `documerge_for_llms.py`
-   - 
+     
 3. **Run the Script**:
    - Double click the documerge_for_llms.py and it will bring up
    - The Script uses a Graphical User Interface which will allow you to select the Github Repo you wish to run it on. 
