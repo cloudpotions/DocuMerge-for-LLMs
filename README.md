@@ -3,7 +3,7 @@
 
 # 💭🧪  DocuMerge for LLMs 
 
- **Easily prepare GitHub repositories for AI LLM analysis!**
+ **Easily prepare GitHub or other Repos for AI LLM training**
 
 Are you trying to train an LLM to analyze a GitHub repository or similar? Instead of manually extracting every single file and organizing it into a document, let **DocuMerge for LLMs** do the heavy lifting for you! This Python script consolidates all files in a repository into **two output files** that are perfect for LLM analysis.
 
