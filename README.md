@@ -50,9 +50,12 @@ Repository Intelligence for LLMs: DocuMerge creates two powerful files that tran
    - Save the `documerge_for_llms.py`
      
 3. **Run the Script**:
-   - Double click the documerge_for_llms.py and it will bring open a Graphical User Interface (works on Windows, Linux and IOS), which will allow you to select the Github Repo you wish to run the python script on. It is helpful if you put your Repo in a parent Folder as the script will output the files created in the same directory it runs and it will be more organized. 
+   - Simply double-click the documerge_for_llms.py file to launch a GUI (compatible across Windows, Linux, and macOS). The clean interface guides you through selecting any repository you wish to analyze.
 
-4. **Wait for the Magic**:
+For best organization, I recommend placing your target repository in a dedicated parent folder first, as DocuMerge generates its output files in the same directory where it runs. This keeps your magical AI-ready documentation neatly contained alongside your source code.
+
+4. **Wait for the Magic**: 
+
    - The script will process the repository and generate **two output files**:
      - `LLM-DocuMerge_<RepoName>.txt`: A large file containing all the repository files.
      - `LLM-DocuMerge-Insights_<RepoName>.txt`: A smaller file with detailed insights about the repository.
