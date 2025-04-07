@@ -8,6 +8,7 @@ Are you trying to train an LLM to analyze a GitHub repository or similar? Instea
 
 This Python script transforms an entire GitHub repository into a single text file optimized for LLM training, while simultaneously generating a compact "insights" file containing structured analysis of the codebase. The dual-output approach ensures you can train your LLM model on complete code contents (when possible), but still leverage the smaller summary file when token limits are exceeded. 
 
+![DocuMerge Wizard](Documerge%20Wizard.jpg)
 
 ---
 
