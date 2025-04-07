@@ -1,8 +1,8 @@
  ~ By Jesse Ellis - Director of Corporate Development - BPOSeats.com, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing, AI Consultancy by yours truly, or any Tech Stacks
 
-# 🌟 DocuMerge for LLMs 🌟
+# 💭🧪  DocuMerge for LLMs 
 
-🚀 **Easily prepare GitHub repositories for AI LLM analysis!**
+ **Easily prepare GitHub repositories for AI LLM analysis!**
 
 Are you trying to train an LLM to analyze a GitHub repository or similar? Instead of manually extracting every single file and organizing it into a document, let **DocuMerge for LLMs** do the heavy lifting for you! This Python script consolidates all files in a repository into **two output files** that are perfect for LLM analysis.
 
@@ -11,7 +11,7 @@ This Python script transforms an entire GitHub repository into a single text fil
 
 ---
 
-## 🧠 What Does It Do?
+## 🧙‍♂️ What Does It Do?
 
 The **DocuMerge for LLMs** script performs the following tasks:
 
@@ -30,17 +30,15 @@ The **DocuMerge for LLMs** script performs the following tasks:
 
 ---
 
-## ✨ Why Use DocuMerge for LLMs?
+## ⚗️  Why Use DocuMerge for LLMs?
 
 - **Save Time**: No need to manually extract and organize files.
 - **Simplify Analysis**: Provide LLMs with a single, well-organized `.txt` file and a concise insights file.
 - **Improve Workflow**: Focus on training and analyzing, not file management.
 
-- **Comprehensive Insights**: The second file provides a detailed breakdown of the repository, making it easier for LLMs to understand the codebase. When you speak to your LLM about what you are tryign to do with the Analysis File attached to it, you can tell it what you are tryign to do and then it can know all the files from that, and then on the first file that is made, it will paste all the code into that text file, your LLM can help you locate which pieces of that first large file code that it was to see (or you can navigate through Github easily and copy that way), but this is a very efficient way for your LLM to know what it should suggest to you in regards to what files of code it needs to see while you are upgrading an existing public repo or working on your own 
+Repository Intelligence for LLMs: DocuMerge creates two powerful files that transform how AI assistants help with your code. The insights file provides a comprehensive map of your repository structure, enabling LLMs to instantly understand your codebase organization without requiring token-heavy analysis. When paired with the complete code file, your LLM can precisely identify which files need modification for specific tasks, guiding you through unfamiliar codebases or helping optimize your own projects. Simply share these files with any AI assistant to receive targeted development guidance and codebase navigation that's tailored to your repository's unique structure and patterns.
 
----
-
-## 🛠️ How to Use It (Step-by-Step)
+## 🪄 How to Use It (Step-by-Step)
 
 1. **Download the Repository**:
    - Clone or download the GitHub repository you want to analyze.
@@ -69,7 +67,7 @@ This file provides a detailed overview of the repository.
 
 ---
 
-## 🎉 Features of the Script
+## Features of the Script
 
 1. **Handles Folders and Subfolders**: Automatically traverses the entire directory structure.
 2. **Organized Output**: Each file's content is labeled with its name for clarity.
