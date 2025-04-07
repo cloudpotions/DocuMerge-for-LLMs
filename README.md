@@ -57,17 +57,8 @@ Repository Intelligence for LLMs: DocuMerge creates two powerful files that tran
      - `LLM-DocuMerge_<RepoName>.txt`: A large file containing all the repository files.
      - `LLM-DocuMerge-Insights_<RepoName>.txt`: A smaller file with detailed insights about the repository.
 
-5. 📜 Output Files
 
-### 1. **LLM-DocuMerge_<RepoName>.txt**
-This file contains all the files in the repository, separated by their names. 
-
-### 2. **LLM-DocuMerge-Insights_<RepoName>.txt**
-This file provides a detailed overview of the repository. 
-
----
-
-## Features of the Script
+## 📜 Features of the Script
 
 1. **Handles Folders and Subfolders**: Automatically traverses the entire directory structure.
 2. **Organized Output**: Each file's content is labeled with its name for clarity.
