@@ -1,5 +1,7 @@
  ~ By Jesse Ellis - Director of Corporate Development - BPOSeats.com, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing, AI Consultancy by yours truly, or any Tech Stacks
 
+buymeacoffee.com/cloudpotions
+
 # 💭🧪  DocuMerge for LLMs 
 
  **Easily prepare GitHub repositories for AI LLM analysis!**
@@ -49,8 +51,7 @@ Repository Intelligence for LLMs: DocuMerge creates two powerful files that tran
    - Save the `documerge_for_llms.py`
      
 3. **Run the Script**:
-   - Double click the documerge_for_llms.py and it will bring up
-   - The Script uses a Graphical User Interface which will allow you to select the Github Repo you wish to run it on. 
+   - Double click the documerge_for_llms.py and it will bring open a Graphical User Interface (works on Windows, Linux and IOS), which will allow you to select the Github Repo you wish to run the python script on. 
 
 4. **Wait for the Magic**:
    - The script will process the repository and generate **two output files**:
@@ -61,7 +62,6 @@ Repository Intelligence for LLMs: DocuMerge creates two powerful files that tran
 
 ### 1. **LLM-DocuMerge_<RepoName>.txt**
 This file contains all the files in the repository, separated by their names. 
-
 
 ### 2. **LLM-DocuMerge-Insights_<RepoName>.txt**
 This file provides a detailed overview of the repository. 
@@ -82,4 +82,6 @@ This file provides a detailed overview of the repository.
 10. **Language Distribution**: Breaks down the repository by programming language.
 11. **README Summary**: Summarizes the content of the `README.md` file (if available).
 12. **Error Handling**: Logs any issues encountered during processing.
+
+    buymeacoffee.com/cloudpotions
 
