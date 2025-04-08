@@ -1,6 +1,3 @@
- ~ By Jesse Ellis - Director of Corporate Development - BPOSeats.com, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing (pay your agents directly, rent the space - reduce costs by 60%+), AI Consultancy by yours truly, or any Tech Stacks
-
-
 # 💭🧪  DocuMerge for LLMs 
 
  **Easily prepare GitHub or other Repos for AI LLM training**
@@ -76,5 +73,6 @@ For best organization, I recommend placing your target repository in a dedicated
 11. **README Summary**: Summarizes the content of the `README.md` file (if available).
 12. **Error Handling**: Logs any issues encountered during processing.
 
+ ~ By Jesse Ellis - Director of Corporate Development - BPOSeats.com, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing (pay your agents directly, rent the space - reduce costs by 60%+), AI Consultancy by yours truly, or any Tech Stacks
 
 #repository-analyzer #code-merger #llm-context-builder #dependency-extractor #directory-structure-analyzer #code-statistics-generator #repository-insights #file-consolidation #codebase-documentation #function-extractor #class-analyzer #file-size-tracker #keyword-analyzer #language-distribution #code-summarizer #llm-optimization #repository-documentation #codebase-merger #code-documentation-generator #ai-assistant-helper
