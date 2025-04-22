@@ -12,20 +12,20 @@ This Python script transforms an entire GitHub repository into a single text fil
 
 ## 🧙‍♂️ What Does It Do?
 
-The **DocuMerge for LLMs** script performs the following tasks:
+## 📜 Features of the Script
 
-1. **Merges All Files**: Combines all files in the repository (including subfolders) into a single `.txt` file, with each file separated by its name as a section header.
-2. **Generates Insights**: Creates a second, smaller `.txt` file that provides a detailed overview of the repository, including:
-   - **Technologies and Dependencies**: Lists libraries and frameworks used in the codebase.
-   - **Directory Structure**: Provides a tree-like view of the repository's organization.
-   - **Key Files and Their Roles**: Summarizes important files and their comments or docstrings.
-   - **Code Statistics**: Counts lines of code and file sizes for each file.
-   - **Largest Files by Lines of Code**: Identifies the largest files in the repository.
-   - **Functions and Classes**: Extracts all functions and classes from Python files.
-   - **Keywords**: Highlights frequently used terms in the codebase.
-   - **Language Distribution**: Breaks down the repository by programming language and shows the contribution of each language.
-   - **README Summary**: Summarizes the content of the `README.md` file (if available).
-   - **Issues**: Logs any errors encountered during processing.
+1. **Handles Folders and Subfolders**: Automatically traverses the entire directory structure.
+2. **Organized Output**: Each file's content is labeled with its name for clarity.
+3. **Technologies and Dependencies**: Extracts `import` and `require` statements to identify libraries and frameworks used.
+4. **Directory Structure**: Generates a tree-like view of the repository.
+5. **Key Files and Comments**: Extracts comments and docstrings from Python files.
+6. **Code Statistics**: Counts lines of code and file sizes for each file.
+7. **Largest Files**: Identifies the largest files by lines of code.
+8. **Functions and Classes**: Extracts all functions and classes from Python files.
+9. **Keywords**: Highlights frequently used terms in the codebase.
+10. **Language Distribution**: Breaks down the repository by programming language.
+11. **README Summary**: Summarizes the content of the `README.md` file (if available).
+12. **Error Handling**: Logs any issues encountered during processing.
 
 ---
 
@@ -35,7 +35,6 @@ The **DocuMerge for LLMs** script performs the following tasks:
 - **Simplify Analysis**: Provide LLMs with a single, well-organized `.txt` file and a concise insights file.
 - **Improve Workflow**: Focus on training and analyzing, not file management.
 
-Repository Intelligence for LLMs: DocuMerge creates two powerful files that transform how AI assistants help with your code. The insights file provides a comprehensive map of your repository structure, enabling LLMs to instantly understand your codebase organization without requiring token-heavy analysis. When paired with the complete code file, your LLM can precisely identify which files need modification for specific tasks, guiding you through unfamiliar codebases or helping optimize your own projects. Simply share these files with any AI assistant to receive targeted development guidance and codebase navigation that's tailored to your repository's unique structure and patterns.
 
 ## 🪄 How to Use It (Step-by-Step)
 
@@ -58,20 +57,7 @@ For best organization, I recommend placing your target repository in a dedicated
      - `LLM-DocuMerge-Insights_<RepoName>.txt`: A smaller file with detailed insights about the repository.
 
 
-## 📜 Features of the Script
 
-1. **Handles Folders and Subfolders**: Automatically traverses the entire directory structure.
-2. **Organized Output**: Each file's content is labeled with its name for clarity.
-3. **Technologies and Dependencies**: Extracts `import` and `require` statements to identify libraries and frameworks used.
-4. **Directory Structure**: Generates a tree-like view of the repository.
-5. **Key Files and Comments**: Extracts comments and docstrings from Python files.
-6. **Code Statistics**: Counts lines of code and file sizes for each file.
-7. **Largest Files**: Identifies the largest files by lines of code.
-8. **Functions and Classes**: Extracts all functions and classes from Python files.
-9. **Keywords**: Highlights frequently used terms in the codebase.
-10. **Language Distribution**: Breaks down the repository by programming language.
-11. **README Summary**: Summarizes the content of the `README.md` file (if available).
-12. **Error Handling**: Logs any issues encountered during processing.
 
  ~ By Jesse Ellis - Director of Corporate Development - BPOSeats.com, the largest seat leasing and office Provider in the Phillipines - Message hello@bposeats.com if you are interested in outsourcing (pay your agents directly, rent the space - reduce costs by 60%+), AI Consultancy by yours truly, or any Tech Stacks
 
