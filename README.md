@@ -2,9 +2,9 @@
 
  **Easily prepare GitHub or other Repos for AI LLM training**
 
-Are you trying to train an LLM to analyze a GitHub repository or similar? Instead of manually extracting every single file and organizing it into a document, let **DocuMerge for LLMs** do the heavy lifting for you! This Python script consolidates all files in a repository into **2 neatly organized text files** that are optimized for LLM analysis. Text files are smaller and more efficient for LLMs, allowing for quicker processing and analysis. DocuMerge intelligently concatenates (combines) all files in a repository while ensuring that the content is structured in a way that the LLM can easily understand.
+Are you trying to train an LLM to analyze a GitHub repository or similar? Instead of manually extracting every single file and organizing it into a document, let **DocuMerge for LLMs** do the heavy lifting for you! This Python script consolidates all files in a repository into **2 neatly organized text files** that are optimized for LLM analysis. 
 
-This Python script transforms an entire GitHub repository into a single text file optimized for LLM training, while simultaneously generating  secondary compact "insights" file containing structured analysis of the codebase. The dual-output approach ensures you can train your LLM model on complete code contents (when possible), but still leverage the smaller summary file when token limits are exceeded.
+This Python script transforms an entire GitHub repository into a single text file optimized for LLM training, while simultaneously generating a secondary "insights" text file containing a structured analysis of the codebase. The dual-output approach ensures you can train your LLM model on complete code contents (if within token limitations), but still leverage the smaller summary file when token limits are exceeded for guidance from your LLM during your Vibe Coding session. 
 
 <img src="Insights Wizard.jpg" alt="DocuMerge Wizard" width="400">
 
